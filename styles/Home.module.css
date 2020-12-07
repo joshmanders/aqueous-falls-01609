@@ -30,13 +30,13 @@
 }
 
 .footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  color: #1D4ED8;
+  text-decoration: underline;
+  margin-left: 5px;
 }
 
 .title a {
-  color: green;
+  color: #1D4ED8;
   text-decoration: none;
 }
 

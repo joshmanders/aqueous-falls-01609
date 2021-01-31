@@ -1,0 +1,11 @@
+---
+application:
+  name: "aqueous-falls-01609"
+  project: "aqueous-falls-01609"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-aqueous-falls-01609"
+  routes:
+  - application_name: "aqueous-falls-01609"
+    paths:
+    - "/*"
